@@ -1,0 +1,38 @@
+#EXTINF:-1,BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:0,Updated:8/15-NDTV
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:-1,DD News
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+#EXTINF:0,Updated:8/15-ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?
+#EXTINF:0,Updated:8/15-Russia Today
+http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:0, News Nation
+http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+#EXTINF:-1,INDIA:Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+#EXTINF:-1,INDIA:NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1,INDIA:NDTV India
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+#EXTINF:-1,INDIA:NDTV Profit
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+#EXTINF:-1,INDIA:9x Tashan
+rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
+#EXTINF:-1,INDIA:Hindi Movies
+rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp
+#EXTINF:-1,INDIA:Cartoon Network
+http://188.227.86.4:4022/udp/239.77.0.77:1234
+#EXTINF:-1,INDIA:India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:-1,IBN LookMat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:0, Smachar Plus
+http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
+#EXTINF:0, Navi Mumbai TV
+http://edge-ind.inapcdn.in:1935/hydra/nmtv.sdp_aac/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
